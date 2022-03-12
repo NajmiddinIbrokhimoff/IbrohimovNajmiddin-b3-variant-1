@@ -10,11 +10,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * Author : Qozoqboyev Ixtiyor
- * Time : 06.03.2022 11:16
- * Project : Spring_mvc_book_crud_my_version
- */
 @Repository
 public class AuthUserDao {
     private final JdbcTemplate jdbcTemplate;
